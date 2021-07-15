@@ -17,16 +17,12 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
-    "@fortawesome/react-fontawesome": "^0.1.14",
-    "@supabase/supabase-js": "^1.18.1",
-    "@supabase/ui": "^0.29.2",
     "framer-motion": "^4.1.17",
     "next": "^11.0.1",
     "react": "^17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
-    "sass": "^1.35.2",
-    "swr": "^0.5.6"
+    "sass": "^1.35.2"
   },
   "devDependencies": {
     "@types/node": "^16.3.2",
