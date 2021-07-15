@@ -7,7 +7,7 @@ The code is provided by Github Copilot unless commented otherwise.
 
 ## Demo
 
-See here!
+Play the [deployed quiz here](https://bamboozled.vercel.app/)
 
 ## Development
 
