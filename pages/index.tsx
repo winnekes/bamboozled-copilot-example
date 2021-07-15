@@ -6,6 +6,8 @@ export default function Home() {
   - a Heading as="h1" and size="3xl" with Text "Bamboozled"
   - another Heading as="h2" and size="2xl" with Text "made with love by Simona and Github Copilot"
    */
+
+  // written by Github Copilot without modification
   return (
     <Center h="100vh">
       <VStack>
