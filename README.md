@@ -1,9 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Bamboozled
 
 An pub quiz app made by @winnekes and @Github Copilot.
 This is to showcase the range of Copilot.
+
+The code is provided by Github Copilot unless commented otherwise.
 
 ## Demo
 
