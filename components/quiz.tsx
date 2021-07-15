@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Question } from "../types";
-import { Center, Box, Text, Button, Heading, Stack, VStack, Spinner } from "@chakra-ui/react";
+import { Center, Box, Text, Button, Stack, VStack, Spinner } from "@chakra-ui/react";
 
 export const Quiz = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
